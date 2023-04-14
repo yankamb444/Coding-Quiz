@@ -6,7 +6,7 @@ The goal of this project was to create a simple quiz. Individuals should be able
 
 [Click here for live site] ()
 
-![Screenshot] (./ass)
+![Screenshot](./assets/images/Web%20capture_13-4-2023_232410_.jpeg)
 
 ## License
 Refer to the license in the repository
