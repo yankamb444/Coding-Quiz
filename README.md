@@ -4,7 +4,7 @@ The goal of this project was to create a simple quiz. Individuals should be able
 
 [Click here for repo] (https://github.com/yankamb444/Coding-Quiz)
 
-[Click here for live site] ()
+[Click here for live site] (https://yankamb444.github.io/Coding-Quiz/)
 
 ![Screenshot](./assets/images/Web%20capture_13-4-2023_232410_.jpeg)
 
